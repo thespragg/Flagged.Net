@@ -25,7 +25,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Flagged.Net\Flagged.Net.csproj" />
+      <ProjectReference Include="..\..\src\Flagged.Net\Flagged.Net.csproj" />
     </ItemGroup>
 
 </Project>
